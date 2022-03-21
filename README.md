@@ -1,4 +1,4 @@
-### Ola! Me chamo Bruno 👋😊
+### Olá! Me chamo Bruno 👋😊
 
 - 📒 Aluno BootCamp FullStack Resilia Educação
 - 🌱 Estou aprendendo Node.js
