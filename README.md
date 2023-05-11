@@ -1,7 +1,6 @@
 ### Olá! Me chamo Bruno 👋😊
 
-- 📒 Aluno BootCamp FullStack Resilia Educação
-- 🌱 Estou aprendendo Node.js, TypeScript, NestJS e ReactJs
+- 📒 Desenvolvedor Web Back-end
 - 😄 Pronomes: Ele/Dele
 
 <div>
